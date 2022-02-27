@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChetanRaval
 - 👀 I’m interested in data science, data analytics, and medicine
-- 🌱 I’m currently learning data analytics at Griffith University, Brisbane
+- 🌱 I’m currently studying Molecular Biology at Griffith University, QLD, AU
 - 📫 Reach me on: chetanbraval@gmail.com
 
 <!---
