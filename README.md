@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChetanRaval
 - 👀 I’m interested in data science, data analytics, and medicine
-- 🌱 Master of Quantitative Biology, The University of Queensland, QLD, AU
+- 🫀 Master of Quantitative Biology, The University of Queensland, QLD, AU
 - 📫 Reach me on: chetanbraval@gmail.com
 
 <!---
